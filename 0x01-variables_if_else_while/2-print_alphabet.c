@@ -1,18 +1,14 @@
-#include <stdlib.h>
-#include <time.h>
-/* more headers goes there */
 #include<stdio.h>
-
-
-/* betty style doc for function main goes there */
+/**
+ * main - main block
+ * Return: 0
+ */
 int main(void)
 {
 int ch;
-
 for(ch='a';ch<='z';ch++)
 {
-    putchar(ch);
-    
+putchar(ch);
 }
 putchar('\n');
 }
