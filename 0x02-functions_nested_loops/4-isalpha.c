@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isalpha - check the code for ALX 
+ * _isalpha - check the code for ALX
  *@c: letter being tested
 * Return: Always 0
 */
