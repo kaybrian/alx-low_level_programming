@@ -1,3 +1,5 @@
+
+
 #include <stdio.h>
 /**
  * main - prints all arguments it receives.
@@ -5,14 +7,11 @@
  * @argv: array that contains the program command line arguments.
  * Return: 0 - success.
  */
-
 int main(int argc, char *argv[])
 {
-int count;
-for (count = 0; count < argc; count++)
-{
-printf("%s\n", argv[count]);
-}
-printf("\n");
+int i;
+
+for (i = 0; i < argc; i++)
+printf("%s\n", argv[i]);
 return (0);
 }
