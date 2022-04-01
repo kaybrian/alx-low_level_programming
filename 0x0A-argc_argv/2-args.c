@@ -1,5 +1,3 @@
-
-
 #include <stdio.h>
 /**
  * main - prints all arguments it receives.
