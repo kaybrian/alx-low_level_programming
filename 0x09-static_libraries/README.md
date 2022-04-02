@@ -1,0 +1,1 @@
+in this file i am working with the static c libs 
