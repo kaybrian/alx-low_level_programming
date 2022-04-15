@@ -24,4 +24,9 @@ trys
 0x0C-more_malloc_free/_putchar.c
 0x0C-more_malloc_free/*-main.c
 
+0x0D-preprocessor/_putchar.c
+
+0x0F-function_pointers/_putchar.c
+0x0F-function_pointers/0-main.c
+
 .gitignore
