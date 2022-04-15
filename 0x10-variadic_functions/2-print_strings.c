@@ -3,9 +3,9 @@
 #include <stdarg.h>
 
 /**
- * print_strings - prints Strings.
- * @separator: string to be printed between numbers.
- * @n: number of integers passed to the function.
+ * print_strings - prints strings.
+ * @separator: string to be printed between the strings.
+ * @n: number of strings passed to the function.
  *
  * Return: no return.
  */
@@ -15,7 +15,6 @@ void print_strings(const char *separator, const unsigned int n, ...)
 	unsigned int i;
 	char *str;
 
-	
 	va_start(valist, n);
 
 	for (i = 0; i < n; i++)
