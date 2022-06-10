@@ -40,3 +40,8 @@ trys
 0x15-file_io/_putchar.c
 0x15-file_io/*-main.c
 0x15-file_io/[a-z]
+
+
+0x17-doubly_linked_lists/_putchar.c
+0x17-doubly_linked_lists/*-main.c
+0x17-doubly_linked_lists/[a-z]
